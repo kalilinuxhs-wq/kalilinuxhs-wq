@@ -39,9 +39,8 @@ jobs:
           plugin_anilist: yes
           plugin_anilist_user: kalilinuxhs
           plugin_anilist_medias: anime
-          plugin_anilist_sections: favorites, watching, paused, characters
+          plugin_anilist_sections: favorites, watching, paused
           plugin_anilist_limit: 2
-          plugin_anilist_limit_characters: 22
 
       - name: 🦑 Achievements Panel
         if: ${{ success() || failure() }}
@@ -52,4 +51,4 @@ jobs:
           user: kalilinuxhs-wq
           base: ""
           plugin_achievements: yes
-          plugin_achievements_display: compact
+          plugin_achievements_display: detailed
