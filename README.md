@@ -1,6 +1,6 @@
 > Want to know what I'm currently working on ?\
 > 
-> *PS: I haven't been very active on [lowlighter/metrics](https://github.com/lowlighter/metrics) recently, but it's still in the boxes taking a bit longer than expected to build up the bricks !*
+> *PS: hi im harshad a student studiying in school :)*
 > - [x] [`mizu.js`](https://mizu.sh) will power the SVG templating
 > - [x] [`matcha.css`](https://matcha.mizu.sh) will offer the base design of SVG
 > - [x] [`vercel-deno`](https://github.com/lowlighter/vercel-deno) will let users self-host their own instance super easily and freely
