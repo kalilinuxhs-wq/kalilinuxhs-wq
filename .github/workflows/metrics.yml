@@ -1,7 +1,10 @@
 name: Metrics
 on:
+  # 🌏 Scheduled to update automatically once a day at 16:00 UTC
   schedule: [{cron: "0 16 * * *"}]
+  # 💡 Allows you to run the workflow manually at any time from your Actions tab!
   workflow_dispatch:
+  # Triggers an automated update whenever changes are pushed to your main branches
   push: {branches: ["master", "main"]}
 jobs:
   metrics:
@@ -10,7 +13,7 @@ jobs:
       contents: write
     steps:
 
-      - name: 🦑 General Layout Panel
+      - name:  Squid General Layout Panel
         if: ${{ success() || failure() }}
         uses: lowlighter/metrics@latest
         with:
@@ -21,13 +24,18 @@ jobs:
           base_indepth: no
           config_order: base.header, isocalendar, languages, notable
           config_timezone: Asia/Kolkata
+          
+          # 🟢 MOVING ISOMETRIC 3D CALENDAR MATRIX
           plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
+          
+          # Languages Stats Breakdown
           plugin_languages: yes
           plugin_languages_details: bytes-size, percentage
           plugin_languages_sections: most-used
           plugin_languages_limit: 4
 
-      - name: 🦑 Medias & Anime Panel
+      - name:  Squid Medias & Anime Panel
         if: ${{ success() || failure() }}
         uses: lowlighter/metrics@latest
         with:
@@ -36,13 +44,15 @@ jobs:
           user: kalilinuxhs-wq
           base: ""
           config_order: anilist
+          
+          # 🍿 ANILIST TRACKER (Optimized to render cover layouts cleanly)
           plugin_anilist: yes
           plugin_anilist_user: kalilinuxhs
           plugin_anilist_medias: anime
           plugin_anilist_sections: favorites, watching, paused
           plugin_anilist_limit: 2
 
-      - name: 🦑 Achievements Panel
+      - name:  Squid Achievements Panel
         if: ${{ success() || failure() }}
         uses: lowlighter/metrics@latest
         with:
@@ -50,5 +60,8 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           user: kalilinuxhs-wq
           base: ""
+          
+          # 🟢 ANIMATED COMPACT BADGES
           plugin_achievements: yes
-          plugin_achievements_display: detailed
+          plugin_achievements_display: compact
+          plugin_achievements_secrets: yes
