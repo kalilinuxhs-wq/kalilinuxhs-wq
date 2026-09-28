@@ -7,7 +7,7 @@
   <br /><br />
   
   <!-- Single Correct Active Typing SVG Title Banner -->
-  <a href="https://git.io/typing-svg"><img src="https://demolab.com" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=HI+%2C+i+am+HARSHAD+SINGH" alt="Typing SVG" /></a>
 </div>
 
 ---
