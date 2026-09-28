@@ -15,7 +15,7 @@
 [<img align="right" width="390" alt="🦑" src="medias.svg?p">](#)
 [<img align="right" width="390" height="80" alt="🦑" src="https://githubusercontent.com">](#)
 
-[<img align="left" width="390" alt="🦑" src="manga-panel.png">](https://github.com)
+[<img align="left" width="390" alt="🦑" src="manga-panel.svg">](https://github.com)
 [<img align="right" width="390" alt="🦑" src="achievements.svg">](#)
 
 [<img width="100%" height="1" alt="🦑" src="https://githubusercontent.com">](#)
