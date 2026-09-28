@@ -6,7 +6,7 @@
   
   <br /><br />
   
-  <!-- New Interactive Typing SVG Title Banner -->
+  <!-- Single Correct Active Typing SVG Title Banner -->
   <a href="https://git.io/typing-svg"><img src="https://demolab.com" alt="Typing SVG" /></a>
 </div>
 
@@ -38,10 +38,12 @@
 
 ---
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=kalilinuxhs-wq&theme=whatsapp-dark2&hide_border=true&timezone=UTC&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)   
-
+<!-- GitHub Streak Stats Section -->
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=kalilinuxhs-wq&theme=whatsapp-dark2&hide_border=true&timezone=UTC&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" /></a>
 
+<br /><br />
+
+<!-- Side-by-Side Unified Metrics Panels -->
 [<img align="left" width="390" alt="🦑" src="general.svg">](#)
 [<img align="right" width="390" alt="🦑" src="medias.svg">](#)
 [<img align="right" width="390" height="80" alt="🦑" src="https://githubusercontent.com">](#)
@@ -50,9 +52,5 @@
 [<img align="right" width="390" alt="🦑" src="achievements.svg">](#)
 
 [<img width="100%" height="1" alt="🦑" src="https://githubusercontent.com">](#)
-
-<div align="center">
-  <img src="https://demolab.com..." alt="Typing SVG" />
-</div>
 
 <sub>These infographics were generated using [kalilinuxhs-wq/metrics](https://github.com)</sub>
