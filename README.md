@@ -14,8 +14,6 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=kalilinuxhs-wq&theme=whatsapp-dark2&hide_border=true&timezone=UTC&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)   
 
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=kalilinuxhs-wq&theme=whatsapp-dark2&hide_border=true&timezone=UTC&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" /></a>
-
 [<img align="left" width="390" alt="🦑" src="general.svg">](#)
 [<img align="right" width="390" alt="🦑" src="medias.svg">](#)
 [<img align="right" width="390" height="80" alt="🦑" src="https://githubusercontent.com">](#)
@@ -46,7 +44,7 @@
 +@ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @+
 
 <div align="center">
-  <img src="https://demolab.com..." alt="Typing SVG" />
+  
 </div>
 
 <sub>These infographics were generated using [kalilinuxhs-wq/metrics](https://github.com)</sub>
