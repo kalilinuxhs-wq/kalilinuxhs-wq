@@ -1,10 +1,7 @@
 name: Metrics
 on:
-  # Schedule daily updates (At 00:00 UTC)
   schedule: [{cron: "0 0 * * *"}]
-  # Allows you to run the workflow manually at any time
   workflow_dispatch:
-  # Run workflow automatically when pushing to master or main
   push: {branches: ["master", "main"]}
 jobs:
   github-metrics:
@@ -18,13 +15,13 @@ jobs:
         with:
           token: ${{ secrets.METRICS_TOKEN }}
 
-          # Main configuration for the layout in the image
+          # Main configuration
           user: kalilinuxhs-wq
           template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: Asia/Kolkata
           
-          # Additional visual settings to match the template features
+          # Language Stats
           plugin_languages: yes
           plugin_languages_colors: github
           plugin_languages_limit: 8
@@ -32,5 +29,22 @@ jobs:
           plugin_languages_recent_load: 300
           plugin_languages_sections: most-used
           plugin_languages_details: bytes-size, percentage
-          
           plugin_lines: yes
+
+          # 🍢 Pinned Projects Block
+          plugin_projects: yes
+          plugin_projects_limit: 4
+
+          # 📅 Coding Habits Block (Recent Activity Tracker)
+          plugin_habits: yes
+          plugin_habits_from: 200       # Review last 200 events
+          plugin_habits_days: 14        # Look at last 14 days of coding
+          plugin_habits_facts: yes      # Display coding facts
+          plugin_habits_charts: yes     # Display active hours chart
+
+          # 🍿 AniList Anime Watchlist Block
+          plugin_anilist: yes
+          plugin_anilist_user: kalilinuxhs
+          plugin_anilist_medias: anime
+          plugin_anilist_sections: favorites, watching
+          plugin_anilist_limit: 2
