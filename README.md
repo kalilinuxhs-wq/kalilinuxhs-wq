@@ -1,17 +1,16 @@
- Hi there 👋
+# Hi welcome to my page !! 👋
 
-![Metrics](/github-metrics.svg)
-<!--
-**kalilinuxhs-wq/kalilinuxhs-wq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<table border="0">
+  <tr>
+    <td valign="top" width="50%">
+      <img src="/general.svg" alt="General Metrics" width="100%" />
+      <br />
+      <img src="/sponsors.svg" alt="Sponsors Metrics" width="100%" />
+    </td>
+    <td valign="top" width="50%">
+      <img src="/medias.svg" alt="Media Metrics" width="100%" />
+      <br />
+      <img src="/achievements.svg" alt="Achievements Metrics" width="100%" />
+    </td>
+  </tr>
+</table>
