@@ -11,8 +11,13 @@
 > 
 > *Thanks for your patience and continued support !*
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=kalilinuxhs-wq&theme=whatsapp-dark2&hide_border=true&timezone=UTC&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)   
+
+
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=kalilinuxhs-wq&theme=whatsapp-dark2&hide_border=true&timezone=UTC&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" /></a>
+
 [<img align="left" width="390" alt="🦑" src="general.svg">](#)
-[<img align="right" width="390" alt="🦑" src="medias.svg?p">](#)
+[<img align="right" width="390" alt="🦑" src="medias.svg">](#)
 [<img align="right" width="390" height="80" alt="🦑" src="https://githubusercontent.com">](#)
 
 [<img align="left" width="390" alt="🦑" src="manga-panel.svg">](https://github.com)
@@ -20,9 +25,28 @@
 
 [<img width="100%" height="1" alt="🦑" src="https://githubusercontent.com">](#)
 
-[<img align="right" alt="🦑" src="manga-panel.gif">](#)
++@ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @+
+@@ o o                                           @@
+@@ | |                                           @@
+@@ _L_L_                                         @@
+@@ ❮\/__-__\/❯ Programming isn't about what you know @@
+@@ ❮(|~o.o~|)❯ It's about what you can figure out   @@
+@@ ❮/ \`-'/ \❯                                   @@
+@@ _/`U'\_                                       @@
+@@ ( .. )   .----------------------------.       @@
+@@ / / \ \  | while( ! (succed=try() ) ) |       @@
+@@ \ | , | /'----------------------------'       @@
+@@ \|=====|/                                     @@
+@@ |_.^._|                                       @@
+@@ | |"| |                                       @@
+@@ ( ) ( )   Testing leads to failure            @@
+@@ |_| |_|   and failure leads to understanding  @@
+@@ _.-' _j L_ '-._                               @@
+@@(___.' '.___)                                  @@
++@ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @+
 
-<img src="https://demolab.com..." alt="Typing SVG" />
+<div align="center">
+  <img src="https://demolab.com..." alt="Typing SVG" />
+</div>
 
 <sub>These infographics were generated using [kalilinuxhs-wq/metrics](https://github.com)</sub>
-
